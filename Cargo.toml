@@ -1,0 +1,12 @@
+[package]
+name = "kinematics"
+version = "0.1.0"
+edition = "2021"
+description = "Robot kinematics: forward kinematics (DH parameters), inverse kinematics (Jacobian), workspace analysis"
+license = "MIT"
+repository = "https://github.com/SuperInstance/kinematics"
+keywords = ["kinematics", "robotics", "dh", "jacobian", "inverse-kinematics"]
+categories = ["science::robotics", "algorithms"]
+readme = "README.md"
+
+[dependencies]
