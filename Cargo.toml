@@ -1,5 +1,5 @@
 [package]
-name = "kinematics"
+name = "robo-kinematics"
 version = "0.1.0"
 edition = "2021"
 description = "Robot kinematics: forward kinematics (DH parameters), inverse kinematics (Jacobian), workspace analysis"
